@@ -182,7 +182,7 @@ public class Simulator
         }
         else if (outputTo == 2)
         {
-          System.out.print("Enter filename for output (example: results.txt): ");
+          System.out.print("Enter filename for output (example: result): ");
           String fileName = keyboard.nextLine();
           try
           {
