@@ -1,0 +1,6 @@
+process name, arrival time, burst time
+p1 0 5
+p2 5 20
+p3 6 12
+p4 8 14
+p5 10 3
